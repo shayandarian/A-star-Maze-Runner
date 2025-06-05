@@ -7,8 +7,8 @@ Additionally, the A* Maze Runner application offers a step by step guidance that
 The team has created unique application that can help understand the ways the A* pathfinding algorithm works and helps create custom mazes that can be used for educational purposes.<br/>
 Further information can be found in the project report and project presentation files.<br/><br/>
 To Run:<br/>
-Download the repository<br/>
-Navigate to where the folder is located<br/>
-Run the appplication with the command
+Download the repository.<br/>
+Navigate to where the folder is located.<br/>
+Run the application with the command.
 ```
 python3 AstarMazeRunner.py
