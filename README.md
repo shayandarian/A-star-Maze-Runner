@@ -5,7 +5,7 @@ The main objective of our project was to give access to a maze generation, maze 
 Users can experiment with different maze sizes, wall probability, and establish start/end points.<br/>
 Additionally, the A* Maze Runner application offers a step by step guidance that shows users which coordinate the maze runner has moved to next.<br/>
 The team has created unique application that can help understand the ways the A* pathfinding algorithm works and helps create custom mazes that can be used for educational purposes.<br/>
-Further information can be found in the project report and project presentation files.
+Further information can be found in the project report and project presentation files.<br/><br/>
 To Run:
 Download the repository
 
